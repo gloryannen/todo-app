@@ -1,0 +1,22 @@
+.newTodoFormInput {
+  padding: 4px;
+  border-radius: 0px;
+  border: none;
+  color: black;
+}
+
+.newTodoFormAddBtn {
+  padding: 4px;
+  font-weight: bold;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
